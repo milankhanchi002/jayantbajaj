@@ -49,10 +49,12 @@ public class BfhlResponse {
         this.concatString = concatString;
     }
 
+    @JsonProperty("is_success")
     public boolean isSuccess() {
         return isSuccess;
     }
 
+    @JsonProperty("is_success")
     public void setSuccess(boolean success) {
         isSuccess = success;
     }

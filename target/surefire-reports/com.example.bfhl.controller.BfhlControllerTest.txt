@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.bfhl.controller.BfhlControllerTest
 -------------------------------------------------------------------------------
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.320 s -- in com.example.bfhl.controller.BfhlControllerTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.333 s -- in com.example.bfhl.controller.BfhlControllerTest
